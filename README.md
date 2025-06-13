@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Sand1312 👋
 
-<!--
-**Sand1312/Sand1312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer** passionate about building robust, scalable applications.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Experienced in **React (TypeScript)**, **Java**, and **Ant Design Pro**
+- 🏗️ Focused on crafting clean, maintainable code and intuitive UI/UX
+- 🤓 Always learning, always improving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Fun Fact
+> I might start slow, but I get better really quickly!
+
+## 🛠️ Top Skills
+- **Frontend:** React (TypeScript), Ant Design Pro
+- **Backend:** Java
+
+## 🌐 Connect with Me
+[Instagram](https://www.instagram.com/sososoooa/)
+
+---
